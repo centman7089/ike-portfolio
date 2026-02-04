@@ -1,4 +1,4 @@
-"use client"
+see"use client"
 
 import type React from "react"
 import { useState } from "react"
@@ -128,7 +128,7 @@ export default function Contact() {
             <div className="text-center hover:scale-105 transition-transform">
               <p className="text-muted-foreground text-sm mb-2">GitHub</p>
               <a href="https://github.com/Iykeweb-01" className="text-accent hover:underline font-medium">
-                github.com
+                Github
               </a>
             </div>
           </div>
