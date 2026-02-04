@@ -115,20 +115,20 @@ export default function Contact() {
           <div className="grid md:grid-cols-3 gap-6 pt-8 border-t border-border">
             <div className="text-center hover:scale-105 transition-transform">
               <p className="text-muted-foreground text-sm mb-2">Email</p>
-              <a href="mailto:hello@example.com" className="text-accent hover:underline font-medium">
-                hello@example.com
+              <a href="mailto:ikeaugustine518@gmail.com" className="text-accent hover:underline font-medium">
+                Gmail
               </a>
             </div>
             <div className="text-center hover:scale-105 transition-transform">
               <p className="text-muted-foreground text-sm mb-2">LinkedIn</p>
-              <a href="#" className="text-accent hover:underline font-medium">
-                linkedin.com/in/yourprofile
+              <a href="https://www.linkedin.com/in/augustine-ike-b42102346" className="text-accent hover:underline font-medium">
+                LinkedIn
               </a>
             </div>
             <div className="text-center hover:scale-105 transition-transform">
               <p className="text-muted-foreground text-sm mb-2">GitHub</p>
-              <a href="#" className="text-accent hover:underline font-medium">
-                github.com/yourprofile
+              <a href="https://github.com/Iykeweb-01" className="text-accent hover:underline font-medium">
+                github.com
               </a>
             </div>
           </div>
